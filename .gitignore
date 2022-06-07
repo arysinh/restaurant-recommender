@@ -1,5 +1,7 @@
 *.png
 *.csv
 *.pdf
+*.pkl
 .ipynb_checkpoints/
+__*
 Images/
